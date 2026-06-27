@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/kadiratesdev?label=Followers&style=for-the-badge&color=22c55e&labelColor=0f172a" alt="followers" />
 </a>
 <a href="https://github.com/kadiratesdev?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-19-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="public repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-20-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="public repositories" />
 </a>
 
 <br />
